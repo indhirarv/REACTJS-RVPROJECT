@@ -1,8 +1,8 @@
 version: '3'
 
 services:
-  reactjsproject:
-    image: react:latest  
+  reactjs:
+    image: indhirarv/dev  
     ports:
       - "80:80"
 
