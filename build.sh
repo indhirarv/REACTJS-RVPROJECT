@@ -1,5 +1,5 @@
 #!/bin/bash
 
 docker build -t react .
-docker tag react indhirarv/prod:capstone
+docker tag prod indhirarv/prod:capstone
 
