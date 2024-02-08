@@ -2,7 +2,7 @@ version: '3'
 
 services:
   reactjs:
-    image: indhirarv/prod  
+    image: react
     ports:
       - "80:80"
 
