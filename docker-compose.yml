@@ -2,7 +2,7 @@ version: '3'
 
 services:
   reactjsproject:
-    image: reactjsproject:latest  
+    image: react:latest  
     ports:
       - "80:80"
 
