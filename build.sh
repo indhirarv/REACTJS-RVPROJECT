@@ -1,5 +1,5 @@
 #!/bin/bash
 
-docker build -t react:latest .
-docker tag react:latest indhirarv/prod:react
+docker build -t react .
+docker tag react indhirarv/prod:react
 
